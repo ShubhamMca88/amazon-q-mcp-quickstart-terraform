@@ -1,4 +1,4 @@
-# Amazon Q MCP Server Quick Install (for Intract Agent AI)
+# Amazon Q MCP Server Quick Install (for Intract Agent AI)- terraform 
 
 This project helps you quickly set up an AWS EC2 server with Amazon Q MCP, using Terraform. It is ready for Intract Agent AI or similar tools. You get a working server in minutes.
 
