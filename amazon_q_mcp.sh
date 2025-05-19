@@ -2,7 +2,7 @@
 
 # Update the system and install libfuse2
 sudo apt-get update -y
-sudo apt-get install -y libfuse2
+sudo apt-get install -y libfuse2 graphviz   # for aws-diagram-mcp-server (optional)
 
 # Download and install Amazon Q
 curl --proto '=https' --tlsv1.2 -sSf https://desktop-release.q.us-east-1.amazonaws.com/latest/amazon-q.deb -o amazon-q.deb
