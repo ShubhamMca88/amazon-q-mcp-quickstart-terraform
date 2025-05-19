@@ -3,6 +3,10 @@
 This project helps you quickly set up an AWS EC2 server with Amazon Q MCP, using Terraform. It is ready for Intract Agent AI or similar tools. You get a working server in minutes.
 
 ---
+![Amazon Q MCP Server](https://img.shields.io/badge/Amazon%20Q-MCP%20Server-orange)
+
+![Amazon Q MCP Architecture](amazon_q_mcp_architecture.png)
+
 
 ## Features
 - Automated EC2 provisioning with secure networking
@@ -13,6 +17,7 @@ This project helps you quickly set up an AWS EC2 server with Amazon Q MCP, using
 - **Amazon Q MCP server quick install** via user data script
 - Example configuration for Intract Agent AI
 - Clean, modular Terraform structure
+
 
 ---
 
